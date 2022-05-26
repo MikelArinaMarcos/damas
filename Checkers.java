@@ -4,10 +4,9 @@ import java.io.UnsupportedEncodingException;
 /**
  * Model object for ChessPlayer.
  *
- * @author  Jordi Blasco Planesas<br>
- *          Capacitaci&oacute; digital. Web 2.0 i xarxes socials.<br>
+ * @author  Mikel Arina Marcos<br>
  *          Universitat Oberta de Catalunya (UOC)
- * @version  2.0
+ * @version 1.0
  */
 public class Checkers {
 
