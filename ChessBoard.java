@@ -17,5 +17,19 @@ public class ChessBoard {
                 board[i][j] = caracter1;
             }
         }
+        for(int i = 1; i < dimension; i++){
+            board[i][0] = '+';
+        }        
+        for(int j = 1; j < dimension; j++){
+            board[0][j] = 'b';
+        }
+    }
+
+    void printBoard()
+    {
+        for(int i = 0; i < dimension; i++)
+        {
+            
+        }
     }
 }
